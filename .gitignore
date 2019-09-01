@@ -32,6 +32,7 @@ Session.vim
 ##Github Linux Ignore
 .*
 !.gitignore
+!.github
 *~
 
 # Files that might appear on external disk
